@@ -1,0 +1,25 @@
+{
+    "activeFile": "tiled save.tmx",
+    "fileStates": {
+        "tiled save.tmx": {
+            "scale": 2,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 116.75,
+                "y": -74.25
+            }
+        },
+        "tilemap1.tsx": {
+            "scaleInDock": 1.5,
+            "scaleInEditor": 1
+        }
+    },
+    "openFiles": [
+        "tilemap1.tsx",
+        "tiled save.tmx"
+    ],
+    "recentFiles": [
+        "tilemap1.tsx",
+        "tiled save.tmx"
+    ]
+}
